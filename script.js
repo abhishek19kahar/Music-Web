@@ -113,12 +113,7 @@ let All_song = [{
         img: "15.jpg",
         singer: "Alka Yagnik "
     },
-    {
-        name: "Ek Din Aap Yun ",
-        path: "15song.mp3",
-        img: "15.jpg",
-        singer: "Alka Yagnik "
-    },
+    
     {
         name: "SAUDEBAAZI ",
         path: "16song.mp3",
